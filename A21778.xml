@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Queene. Whereas the Queenes Maiestie our most gracious souerygne Lady, by reason of the plague [and] pestilence as well in the citie of London, as in the citie of Westminster, did lately by her highnes proclamation adiorne part of the tearme of Sainct Michael ...</title>
+            <title>Proclamations. 1577-10-15</title>
+            <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1577</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21778</idno>
+            <idno type="STC">STC 8096</idno>
+            <idno type="STC">ESTC S116450</idno>
+            <idno type="EEBO-CITATION">99851666</idno>
+            <idno type="PROQUEST">99851666</idno>
+            <idno type="VID">16952</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21778)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 16952)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 564:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Queene. Whereas the Queenes Maiestie our most gracious souerygne Lady, by reason of the plague [and] pestilence as well in the citie of London, as in the citie of Westminster, did lately by her highnes proclamation adiorne part of the tearme of Sainct Michael ...</title>
+                  <title>Proclamations. 1577-10-15</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+                  <author>Elizabeth I, Queen of England, 1533-1603.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>By Christopher Barkar, printer to the Queenes Maiestie. Cum priuilegio regiæ maiestatis,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>[1577]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Michaelmas Term is adjourned further because of plague.</note>
+                  <note>Publication date from STC.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Plague --  England --  Early works to 1800.</term>
+               <term>England --  Proclamations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:16952:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 17 -->
+            <head>By the Queene</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the Queenes Maieſtie, our moſt gracious ſoueraygne Lady, by reaſon of the plague &amp; peſtilence as well in the citie of London, as in the citie of Weſtminſter, did lately by her High<g ref="char:EOLhyphen"/>nes Proclamation adiorne part of the Terme of Sainct Michael: That is to ſay, from the vtas thereof vntill <hi>Menſis Michaelis,</hi> then to haue begunne at the ſayd citie of Weſtminſter, as at the place accuſtomed. Her Maieſtie had very great hope that the ſayd ſickennes, by the fauour of almightie God, and by the coldnes of the yeere, &amp; other occaſions by that time woulde haue cea<g ref="char:EOLunhyphen"/>
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>. Neuertheles her Highnes being credibly informed, that the ſayd ſicknes increaſeth within the ſayd cities of Lon<g ref="char:EOLhyphen"/>don &amp; Weſtminſter, is therefore minded for the better preſeruation of her good ſubiects of all degrees, that ſhoulde re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>re to London &amp; Weſtminſter by reaſon of the Terme, to adiorne the ſayd Terme from <hi>Menſis Michaelis</hi> aforeſayd, <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>till the returne of the ſame Terme, commonly called <hi>Craſtino Martini</hi> next co<g ref="char:cmbAbbrStroke">̄</g>ming, then to beginne at Weſtminſter, as hath bene accuſtomed. Which her Maieſtie ſignifieth to all &amp; ſingular her louing ſubiects of this her Realme, To the intent that they &amp; euery of them, which hath cauſe or commandement to appeare in any of her Highnes Courts at Weſtminſter, on or at any day or tyme, from and after the ſayd <hi>Menſis Michaelis,</hi> may tary at their dwellings, or where their buſines otherwiſe ſhall lye, without reſorting to any the ſaid Courts for that cauſe, before the ſayd <hi>Craſtino Mar<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+               </hi> next comming. And that without daunger of forfeyture, penaltie, or contempt to incurre towardes her Highnes <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that behalfe.</p>
+            <p>And neuertheles her Maieſties pleaſure is, that two of her Iuſtices, that is to ſaye, of eyther Benche one, ſhall the <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Menſis Michaelis,</hi> according to the auncient order, adiorne her ſayde two Courtes at Weſtminſter: At which day, <gap reason="illegible" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ictes of adiornement ſhalbe directed to the ſayd Iuſtices to adiorne the ſame, in &amp; from the ſayde <hi>Menſis Michaelis,</hi> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>till the ſayd <hi>Craſtino Martini,</hi> as before is ſayd. And her Maieſties pleaſure is, that all matters, cauſes &amp; ſutes, de<g ref="char:EOLhyphen"/>pending in any of her other Courts Wards betwene partie &amp; partie, As in her Highnes Courts of Chauncery, Starre Cham<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r Exchequior, Courts of Wards &amp; Liueries, &amp; Duchie of Lancaſter, ſhal haue continuance, &amp; the parties ſhal haue day from the date of theſe preſents, vntill the ſayd <hi>Craſtino Martini,</hi> as before is ſayd.</p>
+            <p>Prouided alwayes, &amp; her Maieſties pleaſure &amp; commandement is, that all Collectors, Receauers, Sheriffs, &amp; other accomptants, &amp; all other perſons that ought or ſhould accompt or paye any ſumme or ſummes of money, in any of her Maieſties Court of Exchequior, Courts of Wardes &amp; Liueries, or of her Duchie of Lancaſter, or any of them, Or that ſhould enter into any accompt in any of the ſayd Courts, ſhall at their dayes appoynted repayre vnto the accuſtomed p<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>es at Weſtminſter, where her Highnes hath appointed ſuch Officers &amp; miniſters, as for that purpoſe her Maieſtie <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>th thought expedient, And there to pay &amp; do in euery behalfe, as though no ſuch Proclamation of adiornement had <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> had or made, Any thing mentioned in this Proclamation, or in any Writte of adiornement to the contrary not<g ref="char:EOLunhyphen"/>withſtanding. And her Highnes further pleaſure &amp; commandement is, that all Sheriffes ſhal returne their writtes &amp; Proceſſe againſt all ſuch accomptants and debtors, at the dayes therein appoynted. And if any perſon or perſons, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ought to accompt or pay any ſumme or ſummes of money to her Maieſtie, in any the ſaid Courtes &amp; places afore<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> do make default therein, That then her Highnes writtes and proceſſe ſhalbe awarded, &amp; ſent forth againſt euery <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ch perſon &amp; perſons, &amp; the ſame to be duly and orderly ſerued &amp; returned, by the Sheriffes &amp; Officers thereunto ap<g ref="char:EOLhyphen"/>poynted in ſuch like maner and forme as the ſame ſhould haue bene, if this preſent Proclamation had not bene made. And if any Sheriffe or other Officer ſhall make defaulte, or be negligent in ſeruing, executing or returning any the ſayd writtes &amp; proceſſe aforeſayd, That then euery ſuch Sheriffe &amp; other Officer, ſhal incurre ſuch paynes &amp; penalties as by the ſayd Courtes, or any of them ſhalbe taxed &amp; aſſeſſed: Willing and commanding all and euery her Maieſties Sheriffes, Officers, miniſters and ſubiects, to whome it doeth or ſhall appertayne, to obſerue &amp; keepe their aſſemblies and appearances, with all their returnes and certificates in her Highnes ſayd Courtes at Weſtminſter, in the ſayde <hi>Craſtino Martini</hi> next comming, then there with the fauor of God to be holden &amp; kept, and there to doe their offices and dutyes in euery behalfe, in like maner &amp; forme, as they ſhould or ought to haue done, if this preſent Proclamation had not bene had or made, As they will anſwere to the contrary at their perils.</p>
+            <closer>
+               <dateline>Giuen at her Maieſties Caſtell of Wyndeſor, <date>the xv. day of October, in the ninetenth yere of her Maieſties reigne.</date>
+               </dateline>
+               <lb/>
+God ſaue the Queene.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Imprinted at London by Chriſtopher Barkar, Printer to the Queenes Maieſtie.</p>
+         </div>
+         <div xml:lang="lat" type="license">
+            <p>Cum priuilegio Regiae Maieſtatis.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
